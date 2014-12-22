@@ -27,3 +27,7 @@ In the console it  will print:
 ![console](http://youmoo.github.io/pages/images/scp-console.png)
 
 You can check the scp'ed file from linux server now.
+
+### Bonus
+
+If you have node installed, you can use **svn-commit-changelist.js** to scp all files in scpp changelist to a linux server.
